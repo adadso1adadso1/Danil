@@ -1,9 +1,10 @@
+
 [app]
-title = Lada XRAY
-package.name = ladaapp
+title = Счётчик
+package.name = mysimpleapp
 package.domain = org.test
 source.dir = .
-source.include_exts = py,png,jpg,kv,atlas
+source.include_exts = py
 version = 0.1
 requirements = python3,kivy
 orientation = portrait
